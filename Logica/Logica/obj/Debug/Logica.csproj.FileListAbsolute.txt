@@ -1,0 +1,14 @@
+C:\Users\kc\Documents\Logica\Logica\bin\Debug\Logica.exe.config
+C:\Users\kc\Documents\Logica\Logica\bin\Debug\Logica.exe
+C:\Users\kc\Documents\Logica\Logica\bin\Debug\Logica.pdb
+C:\Users\kc\Documents\Logica\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\kc\Documents\Logica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kc\Documents\Logica\Logica\obj\Debug\Logica.exe
+C:\Users\kc\Documents\Logica\Logica\obj\Debug\Logica.pdb
+E:\Logica\Logica\bin\Debug\Logica.exe.config
+E:\Logica\Logica\obj\Debug\Logica.exe
+E:\Logica\Logica\obj\Debug\Logica.pdb
+E:\Logica\Logica\bin\Debug\Logica.exe
+E:\Logica\Logica\bin\Debug\Logica.pdb
+E:\Logica\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+E:\Logica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
